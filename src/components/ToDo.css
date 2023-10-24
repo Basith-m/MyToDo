@@ -1,0 +1,35 @@
+.todo-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #2d2d2d;
+    border: none;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.form-group{
+    margin: 20px;
+    width: auto;
+}
+
+button{
+    margin-left: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.list{
+    margin-top: 30px !important;
+}
+ul{
+    padding: 0;
+}
+
+li{
+    margin-bottom: 12px;
+}
+
+#list-item .todo-text{
+    text-decoration: line-through;
+    opacity: 0.3;
+}
