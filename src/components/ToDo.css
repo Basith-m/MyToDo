@@ -33,3 +33,7 @@ li{
     text-decoration: line-through;
     opacity: 0.3;
 }
+
+h2{
+    overflow-y: hidden;
+}
